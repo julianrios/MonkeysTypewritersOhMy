@@ -5,4 +5,5 @@ package io.zipcoder;
  * correctly every time.  Make the run method thread safe.
  */
 public class SafeCopier {
+
 }
